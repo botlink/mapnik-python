@@ -7,3 +7,4 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y libmapnik-dev
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y mapnik-utils
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y gdal-bin
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y python-pip
+ 
